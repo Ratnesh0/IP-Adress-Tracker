@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](https://github.com/dodoburner/IP-Adress-Tracker)
-- Live Site URL: [link](https://dodoburner.github.io/IP-Adress-Tracker/)
+- Solution URL: [link](https://github.com/Ratnesh0/IP-Adress-Tracker)
+- Live Site URL: [link](https://.github.io/IP-Adress-Tracker/)
 
 ## My process
 

@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dodoburner/IP-Adress-Tracker.git"
+    "url": "git+https://github.com/Ratnesh0/IP-Adress-Tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dodoburner/IP-Adress-Tracker/issues"
+    "url": "https://github.com/Ratnesh0/IP-Adress-Tracker/issues"
   },
-  "homepage": "https://github.com/dodoburner/IP-Adress-Tracker#readme",
+  "homepage": "https://github.com/Ratnesh0/IP-Adress-Trackerr#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
