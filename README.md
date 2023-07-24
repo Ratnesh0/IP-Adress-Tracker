@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [link](https://github.com/Ratnesh0/IP-Adress-Tracker)
-- Live Site URL: [link](https://.github.io/IP-Adress-Tracker/)
+- Live Site URL: [link](https://Ratnesh0.github.io/IP-Adress-Tracker/)
 
 ## My process
 
